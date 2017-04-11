@@ -1,0 +1,8 @@
+Evaluation of Team 
+
+Name               	Score		Contribution	
+
+Wenxiang Lei 		9.0 		Local Search Algorithms & Plots
+Hao Wu			9.0		Local Search & BnB Algorithms
+Hao Yan			8.5		BnB Algorithm
+Zhaohan Sun		9.0		Approximation Algorithms
